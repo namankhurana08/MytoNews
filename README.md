@@ -17,3 +17,9 @@ Frontend:
 HTML5, CSS3, JavaScript</br>
 Dark/Light Mode:
 CSS variables or JavaScript for theme switching</br>
+
+## Preview
+
+![Screenshot 2024-10-21 004305](https://github.com/user-attachments/assets/a7fe694b-770c-45cb-a345-c9200b95886d)
+
+![Screenshot 2024-10-21 004248](https://github.com/user-attachments/assets/64249380-6392-4385-925a-a0080a6ce6e2)
